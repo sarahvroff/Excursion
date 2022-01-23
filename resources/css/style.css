@@ -1,0 +1,38 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2, h3 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer p{
+    text-align: right;
+    color: gray;
+}
+
+#coming-soon img {
+    padding-top: 30px;
+}
